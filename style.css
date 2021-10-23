@@ -11,6 +11,7 @@
 
 html {
   font-size: 62.5%;
+
 }
 
 .logo {
@@ -51,9 +52,6 @@ html {
 /* End of Common Styles */
 
 /* Front Page */
-.front-page {
-  /* display: none; */
-}
 
 /* Section 1 */
 .section-1 {
